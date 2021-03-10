@@ -1,4 +1,4 @@
-module github.com/sdfithging/goav
+module github.com/neoblackcap/goav
 
 go 1.15
 
